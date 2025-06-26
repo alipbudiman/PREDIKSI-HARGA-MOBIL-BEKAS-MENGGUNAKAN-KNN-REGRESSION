@@ -8,6 +8,9 @@
 **Mata Kuliah**: Pembelajaran Mesin  
 **Topik**: UAS - Regresi  
 
+### Link Google Colab
+**Public Colab Link**: https://colab.research.google.com/drive/1xHcArAlC196bEpKRxQOSx3BHgwvkd4V7?usp=sharing
+
 ---
 
 ## Judul
@@ -410,11 +413,6 @@ plt.title('Model Comparison')
 
 ### Screenshot 5: Manual Testing Results
 ![Testing Results](/asssets/img/image7.png)
-
-## Lampiran Kode
-
-### Link Google Colab
-**Public Colab Link**: https://colab.research.google.com/drive/1xHcArAlC196bEpKRxQOSx3BHgwvkd4V7?usp=sharing
 
 
 *Catatan: Untuk hasil yang lebih akurat, pastikan untuk menjalankan semua cell dalam notebook dan mengupdate bagian hasil dengan output yang sebenarnya.*
