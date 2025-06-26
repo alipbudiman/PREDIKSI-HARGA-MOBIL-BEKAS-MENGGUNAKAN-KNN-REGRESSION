@@ -393,23 +393,23 @@ plt.title('Model Comparison')
 *[Catatan: Screenshot akan diambil setelah eksekusi notebook dan ditambahkan ke laporan]*
 
 ### Screenshot 1: Data Loading dan Preprocessing
-![Data Loading](asssets\img\image.png)
+![Data Loading](/asssets/img/image.png)
 
 ### Screenshot 2: Model Training Results
-![Model Results](asssets\img\image2.png)
+![Model Results](/asssets/img/image2.png)
 
-![Model Results](asssets\img\image3.png)
+![Model Results](/asssets/img/image3.png)
 
 ### Screenshot 3: Elbow Curve Visualization
-![Elbow Curve](asssets\img\image4.png)
+![Elbow Curve](/asssets/img/image4.png)
 
 ### Screenshot 4: Data Visualization
-![Data Visualization](asssets\img\image5.png)
+![Data Visualization](/asssets/img/image5.png)
 
-![Data Visualization](asssets\img\image6.png)
+![Data Visualization](/asssets/img/image6.png)
 
 ### Screenshot 5: Manual Testing Results
-![Testing Results](asssets\img\image7.png)
+![Testing Results](/asssets/img/image7.png)
 
 ## Lampiran Kode
 
