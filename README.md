@@ -3,9 +3,13 @@
 ---
 
 **Laporan disusun oleh**: Alif Budiman Wahabbi
+
 **NIM**: 225520211008
+
 **Tanggal**: 26 Juni 2025  
+
 **Mata Kuliah**: Pembelajaran Mesin  
+
 **Topik**: UAS - Regresi  
 
 ### Link Google Colab
